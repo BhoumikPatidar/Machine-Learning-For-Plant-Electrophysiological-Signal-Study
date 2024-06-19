@@ -41,7 +41,7 @@ A circuit was designed and prototyped for filtering and amplifying received sign
 
 ### Circuit Diagram
 
-![Circuit Diagram](path/to/Images/circuit.png)
+![Circuit Diagram](Images/circuit.png)
 
 ## Data Acquisition Methodology
 
