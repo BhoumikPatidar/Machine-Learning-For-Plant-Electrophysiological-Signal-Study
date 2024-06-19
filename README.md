@@ -1,6 +1,11 @@
-### Signal and Classification
 
-![Signal and Classification](path/to/signal-classification.png)
+# Signal and Classification
+
+<div style="display: flex;">
+  <img src="Images/signal.png" alt="Signal" style="width: 45%; margin-right: 10px;">
+  <img src="Images/signal_classified.png" alt="Signal and Classification" style="width: 45%;">
+</div>
+
 
 # Machine Learning For Electrophysiological Signal Study: Measuring, Analyzing, and Classifying Plant Responses
 
